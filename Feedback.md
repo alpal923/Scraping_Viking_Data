@@ -11,4 +11,4 @@ Unveiling the Magic:
 ⁃ Once again is to maybe link to your previous data collection blog, and at the end you could link to your EDA
 
 Trevor Hancock:
-I thought this was really well done, you were clear in explaining your steps and your code, and your graphs look good. I thought the analysis was good at pointing out something interesting I didn't immediately notice about the data. Perhaps more graphs could've been used for the comparitive analysis of dig sites as there is a lot going on in those two.
+I thought this was really well done, you were clear in explaining your steps and your code, and your graphs look good. I thought the analysis was good at pointing out something interesting I didn't immediately notice about the data. Perhaps more graphs could've been used for the comparative analysis of dig sites as there is a lot going on in those two.
